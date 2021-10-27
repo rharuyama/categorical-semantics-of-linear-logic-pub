@@ -1,3 +1,4 @@
+(Abstract in English: https://github.com/rharuyama/categorical-semantics-of-linear-logic-pub/blob/main/abst_en.pdf)  
 ### [線形論理の圏論的意味論](https://github.com/rharuyama/categorical-semantics-of-linear-logic-pub/blob/main/categorical-semantics-of-linear-logic.pdf)
 線形論理の圏論的意味論についてのサーベイです．この論文では，
 * 線形論理の歴史
